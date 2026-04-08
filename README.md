@@ -1,4 +1,4 @@
-# Statistical Modeling Lunch & Learn
+# Intro to Statistical Modeling for Campaigns
 ### Using Statistics and Data Science Techniques to Answer Campaign Questions
 
 ---
